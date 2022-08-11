@@ -1,2 +1,2 @@
 # Hi there! :wave:
-This is Kaiyang-Liu, an graduate data science & statistics learner. Welcome~~~
+This is Kaiyang-Liu, a graduate data science & statistics learner. Welcome~~~
